@@ -1,4 +1,3 @@
-# Imteyaj-Sir-
 <!DOCTYPE html>
 <html lang="hi">
 <head>
@@ -51,7 +50,7 @@
     <ul>
       <li>Class 9: Math, Science, Social Science</li>
       <li>Class 10: Math, Science, Social Science</li>
-      <li>Class 12: Mathematics & GK</li>
+      <li>Class 12: Mathematics, History, Geography, Political Science, Hindi, English, GK</li>
       <li>CTET Preparation: GS, Pedagogy</li>
       <li>Bihar Police & SSC: GK, GS</li>
     </ul>
@@ -97,6 +96,11 @@
       <li><a href="#">Class 10 Science Mock Test</a></li>
       <li><a href="#">CTET Paper 1 Mock Test</a></li>
       <li><a href="#">SSC GS Practice Test</a></li>
+      <li><a href="#">Class 12 History Mock Test</a></li>
+      <li><a href="#">Class 12 Geography Mock Test</a></li>
+      <li><a href="#">Class 12 Political Science Mock Test</a></li>
+      <li><a href="#">Class 12 Hindi Mock Test</a></li>
+      <li><a href="#">Class 12 English Mock Test</a></li>
     </ul>
   </section>
 
